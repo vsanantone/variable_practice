@@ -5,3 +5,7 @@ string3 = " "
 integer1 = 45
 integer2 = 48
 integer3 = 92
+
+float1 = 1200.00
+float2 = 45.69
+float3 = 22.23
